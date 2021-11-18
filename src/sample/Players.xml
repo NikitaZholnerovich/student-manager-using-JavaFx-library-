@@ -1,0 +1,108 @@
+
+    <players>
+        <player>
+            <name>Bob Willes</name>
+            <dateofbirth>21.11.2001</dateofbirth>
+            <footballteam> Real Madrid</footballteam>
+            <hometown> Barcelona </hometown>
+            <squad>MainFootballSquad</squad>
+            <position>forward</position>
+        </player>
+        <player>
+            <name>Bruce Lee</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>ReserveFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Dwayne Johnson</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Sarah Drake</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>ReserveFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Elsie Erickson</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Jasper Harding</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Michael Cole</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Wilmot Pena</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Elmer Waters</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> Los-Angeles</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Miles Gardner</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown>Chicago</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Howell Chambers</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam>Chelsea</footballteam>
+            <hometown> New-York</hometown>
+            <squad>ReserveFootballSquad</squad>
+            <position>defender</position>
+        </player>
+        <player>
+            <name>Gary Romero</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>ReserveFootballSquad</squad>
+            <position>goalkeeper</position>
+        </player>
+        <player>
+            <name>Dominic Ingram</name>
+            <dateofbirth>31.02.1990</dateofbirth>
+            <footballteam> Valencia</footballteam>
+            <hometown> New-York</hometown>
+            <squad>MainFootballSquad</squad>
+            <position>defender</position>
+        </player>
+
+    </players>
